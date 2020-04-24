@@ -26,6 +26,7 @@ The face recognition software can be integrated with other loyalty software, CRM
 As soon as your customers enter your store, you can know your customers: age, gender, and purchasing behavior. Thanks to this, you can build and evaluate your marketing strategy efficiently and determine your target customers.
 
 With insight analytics, you can boost marketing efficiency. It helps you to tailor your ads to specific customers. As a result, your sales can increase significantly.
+![Face recognition for retails](https://gigasource.b-cdn.net/wp-content/uploads/2020/03/face-recognition-for-retails-2.jpg)
 
 ## 5. Minimize losses caused by unscrupulous customers
 As you can see, up to 50 percentage of unscrupulous customer returns to the store. In order to minimize losses caused by violators, the system’s server can be integrated with facial recognition technology.
